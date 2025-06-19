@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/learn-tamil/static/css/main.1bf4b283.css",
+    "main.js": "/learn-tamil/static/js/main.4872de7a.js",
+    "static/js/453.0033204f.chunk.js": "/learn-tamil/static/js/453.0033204f.chunk.js",
+    "static/media/InterVariable-Italic.woff2": "/learn-tamil/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
+    "static/media/InterVariable.woff2": "/learn-tamil/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
+    "static/media/primeicons.svg": "/learn-tamil/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/primeicons.eot": "/learn-tamil/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/learn-tamil/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/learn-tamil/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/primeicons.woff2": "/learn-tamil/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "index.html": "/learn-tamil/index.html",
+    "main.1bf4b283.css.map": "/learn-tamil/static/css/main.1bf4b283.css.map",
+    "main.4872de7a.js.map": "/learn-tamil/static/js/main.4872de7a.js.map",
+    "453.0033204f.chunk.js.map": "/learn-tamil/static/js/453.0033204f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bf4b283.css",
+    "static/js/main.4872de7a.js"
+  ]
+}
