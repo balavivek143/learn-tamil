@@ -36,8 +36,10 @@ const App = () => {
       disablePinchZoomInHandDevices();
    }, []);
 
+   const basename = process.env.NODE_ENV === "production" ? "/learn-tamil" : "/";
+
   return (
-    <Router>
+    <Router basename={basename}>
       <TopNavBar />
       <Routes>
         <Route path="/" element={<SelectLanguage />} />
