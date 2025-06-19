@@ -15,13 +15,6 @@ const LetterTile = (props) => {
                 utterance.pitch = 1;
                 utterance.rate = 0.2; // slower for kids
                 utterance.volume = 3;
-                const voices = window.speechSynthesis.getVoices();
-                const tamilVoice = voices.find(
-                    (v) => v.lang === 'ta-IN' && v.name.toLowerCase().includes('female')
-                );
-                if (tamilVoice) {
-                    utterance.voice = tamilVoice;
-                }
                 
                 speechSynthesis.speak(utterance);
             }
