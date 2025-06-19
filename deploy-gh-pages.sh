@@ -9,13 +9,15 @@ BRANCH="gh-pages"
 
 # === BUILD PROJECT ===
 echo "🛠 Building React app..."
-npm run build
+npm run deploy
 
 # === DEPLOY BUILD FOLDER ===
 echo "🚀 Deploying to GitHub Pages..."
 
 cd build
 git init
+git config user.email "balavivek143@gmail.com"
+git config user.name "Bala
 git add .
 git commit -m "Deploying to $BRANCH"
 git remote add origin $REPO_URL

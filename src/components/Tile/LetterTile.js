@@ -3,9 +3,11 @@ import './LetterTile.css';
 
 const LetterTile = (props) => {
 
+    const basename = process.env.NODE_ENV === "production" ? "/learn-tamil" : "";
+
     const speakLetter = (letter, audioUrl) => {
             if(audioUrl) {
-                const audio = new Audio(`${audioUrl}`);
+                const audio = new Audio(`${basename}${audioUrl}`);
                 audio.play();
             } else {
                 const utterance = new SpeechSynthesisUtterance(letter);
