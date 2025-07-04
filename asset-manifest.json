@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/learn-tamil/static/css/main.edddb94b.css",
+    "main.js": "/learn-tamil/static/js/main.47bd8a6c.js",
+    "static/media/fa-solid-900.ttf": "/learn-tamil/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/primeicons.svg": "/learn-tamil/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/fa-brands-400.ttf": "/learn-tamil/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/learn-tamil/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/learn-tamil/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/primeicons.eot": "/learn-tamil/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/learn-tamil/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/learn-tamil/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/fa-regular-400.ttf": "/learn-tamil/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/primeicons.woff2": "/learn-tamil/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "static/media/fa-regular-400.woff2": "/learn-tamil/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-v4compatibility.ttf": "/learn-tamil/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/learn-tamil/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/learn-tamil/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.edddb94b.css",
+    "static/js/main.47bd8a6c.js"
+  ]
+}
